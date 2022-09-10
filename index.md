@@ -4,3 +4,5 @@
 #### 4th Header
 ##### 5th Header
 ###### 6th Header
+
+![Image of Octocat](https://www.clipartkey.com/mpngs/m/51-512958_github-octocat.png)
